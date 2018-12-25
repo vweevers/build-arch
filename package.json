@@ -1,0 +1,34 @@
+{
+  "name": "build-arch",
+  "version": "0.0.0",
+  "description": "Wraps os.arch() to distinguish ARM versions",
+  "license": "MIT",
+  "author": "Vincent Weevers",
+  "scripts": {
+    "test": "standard && tape test"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^12.0.1",
+    "tape": "^4.9.1"
+  },
+  "keywords": [
+    "os",
+    "cpu",
+    "arch",
+    "arm",
+    "prebuild",
+    "prebuildify",
+    "prebuilt",
+    "node-gyp-build"
+  ],
+  "engines": {
+    "node": ">=6"
+  },
+  "repository": "vweevers/build-arch",
+  "bugs": "https://github.com/vweevers/build-arch/issues",
+  "homepage": "https://github.com/vweevers/build-arch"
+}
