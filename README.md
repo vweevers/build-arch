@@ -4,6 +4,7 @@
 
 [![npm status](http://img.shields.io/npm/v/build-arch.svg)](https://www.npmjs.org/package/build-arch)
 [![node](https://img.shields.io/node/v/build-arch.svg)](https://www.npmjs.org/package/build-arch)
+[![Travis build status](https://img.shields.io/travis/vweevers/build-arch.svg)](http://travis-ci.org/vweevers/build-arch)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Usage
